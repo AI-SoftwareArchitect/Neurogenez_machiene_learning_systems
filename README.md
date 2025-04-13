@@ -1,4 +1,4 @@
-🧠 GrowNet: Dynamic Neuron Growth in Deep Learning
+🧠 Dynamic Neuron Growth in Deep Learning
 Welcome to the GrowNet project! 🚀 This project explores a new approach to deep learning, where the neural network's architecture grows during training by adding new neurons to the hidden layers. It's like giving your model a brain boost every epoch! 🧠💡
 
 🚀 What's this about?
